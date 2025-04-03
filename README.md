@@ -11,6 +11,8 @@
 - [ **次元链接机场官方地址入口1**](https://次元.net/auth/register?code=RFst)
 - [ **次元链接机场官方地址入口2**](https://2cy.io/auth/register?code=RFst)
 - [ **次元链接机场官方地址入口3**](https://cylink.sbs/auth/register?code=RFst)
+
+
 **点击注册**：在主页右上角找到并点击“注册”按钮。
 
  **填写信息**：在注册页面填写您的邮箱地址、设置密码，并确认密码。确保使用有效的邮箱，因为注册后需要进行邮箱验证。
